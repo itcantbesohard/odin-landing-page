@@ -74,9 +74,13 @@ h3 {
 }
 
 .hero-content {
-    min-width: 300px;
     padding: 64px 0px;
     flex: 0 1 40%;
+}
+
+.hero-img {
+    height: auto;
+    width: 100%;
 }
 
 .btn-main {
@@ -185,5 +189,4 @@ h3 {
 .btn-main-reverse:hover {
     background-color: #2771e5;
     border-color: #f9faf8;
-
 }
